@@ -1,0 +1,80 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/raivost/Ani-Bout-2.0-CDB",
+			"repo_name": "Anibout CDB",
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"url": "https://github.com/raivost/Ani-Bout-2.0-config",
+			"repo_name": "Anibout Config",
+			"repo_path": "./config",
+			"has_core": true,
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"url": "https://github.com/raivost/Ani-Bout-2.0-CDB",
+			"repo_name": "Anibout Expensions",
+			"repo_path": "./expansions",
+			"has_core": true,
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"url": "https://github.com/raivost/Ani-Bout-2.0-Scripts",
+			"repo_name": "Anibout Scripts",
+			"repo_path": "./script",
+			"has_core": true,
+			"core_path": "bin",
+			"data_path": "",
+			"script_path": "script",
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"url": "https://github.com/raivost/Ani-Bout-2.0-Pics",
+			"repo_name": "Anibout Pics",
+			"repo_path": "./pics",
+			"has_core": true,
+			"core_path": "pics",
+			"data_path": "",
+			"script_path": "pics",
+			"should_update": true,
+			"should_read": true
+		}
+		
+	],
+	"servers": [
+		{
+			"name": "EU Central (Casual)",
+			"address": "eu.ygopro.co",
+			"duelport": 7912,
+			"roomaddress": "eu.ygopro.co",
+			"roomlistport": 7923
+		},
+		{
+			"name": "EU Central (Competitive)",
+			"address": "eu.ygopro.co",
+			"duelport": 7911,
+			"roomaddress": "eu.ygopro.co",
+			"roomlistport": 7922
+		},
+		{
+			"name": "US West (Casual)",
+			"address": "us.ygopro.co",
+			"duelport": 7911,
+			"roomaddress": "us.ygopro.co",
+			"roomlistport": 7922
+		},
+		{
+			"name": "US West (Competitive)",
+			"address": "us.ygopro.co",
+			"duelport": 7912,
+			"roomaddress": "us.ygopro.co",
+			"roomlistport": 7923
+		}
+	],
+	"posixPathExtension": "/usr/local/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands"
+}
