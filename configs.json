@@ -15,6 +15,14 @@
 			"should_read": true
 		},
 		{
+			"url": "https://github.com/raivost/Ani-Bout-2.0-flists",
+			"repo_name": "Anibout lflists",
+			"repo_path": "./lflists",
+			"has_core": true,
+			"should_update": true,
+			"should_read": true
+		},
+		{
 			"url": "https://github.com/raivost/Ani-Bout-2.0-CDB",
 			"repo_name": "Anibout Expensions",
 			"repo_path": "./expansions",
