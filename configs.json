@@ -1,13 +1,13 @@
 {
 	"repos": [
 		{
-			"url": "https://github.com/raivost/Ani-Bout-2.0-CDB",
+			"url": "https://github.com/raivost/CstudioPro-CDB",
 			"repo_name": "Anibout CDB",
 			"should_update": true,
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/raivost/Ani-Bout-2.0-config",
+			"url": "https://github.com/raivost/CstudioPro-Config",
 			"repo_name": "Anibout Config",
 			"repo_path": "./config",
 			"has_core": true,
@@ -15,7 +15,7 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/raivost/Ani-Bout-2.0-flists",
+			"url": "https://github.com/raivost/CstudioPro-Flists",
 			"repo_name": "Anibout lflists",
 			"repo_path": "./lflists",
 			"has_core": true,
@@ -23,7 +23,7 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/raivost/Ani-Bout-2.0-CDB",
+			"url": "https://github.com/raivost/CstudioPro-CDB",
 			"repo_name": "Anibout Expensions",
 			"repo_path": "./expansions",
 			"has_core": true,
@@ -31,7 +31,7 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/raivost/Ani-Bout-2.0-Scripts",
+			"url": "https://github.com/raivost/CstudioPro-Scripts",
 			"repo_name": "Anibout Scripts",
 			"repo_path": "./script",
 			"has_core": true,
@@ -42,7 +42,7 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/raivost/Ani-Bout-2.0-Pics",
+			"url": "https://github.com/raivost/CstudioPro-Pics",
 			"repo_name": "Anibout Pics",
 			"repo_path": "./pics",
 			"has_core": true,
