@@ -2,13 +2,13 @@
 	"repos": [
 		{
 			"url": "https://github.com/raivost/CstudioPro-CDB",
-			"repo_name": "Anibout CDB",
+			"repo_name": "CstudioPro CDB",
 			"should_update": true,
 			"should_read": true
 		},
 		{
 			"url": "https://github.com/raivost/CstudioPro-Config",
-			"repo_name": "Anibout Config",
+			"repo_name": "CstudioPro Config",
 			"repo_path": "./config",
 			"has_core": true,
 			"should_update": true,
@@ -16,7 +16,7 @@
 		},
 		{
 			"url": "https://github.com/raivost/CstudioPro-Flists",
-			"repo_name": "Anibout lflists",
+			"repo_name": "CstudioPro lflists",
 			"repo_path": "./lflists",
 			"has_core": true,
 			"should_update": true,
@@ -24,7 +24,7 @@
 		},
 		{
 			"url": "https://github.com/raivost/CstudioPro-CDB",
-			"repo_name": "Anibout Expensions",
+			"repo_name": "CstudioPro Expensions",
 			"repo_path": "./expansions",
 			"has_core": true,
 			"should_update": true,
@@ -32,7 +32,7 @@
 		},
 		{
 			"url": "https://github.com/raivost/CstudioPro-Scripts",
-			"repo_name": "Anibout Scripts",
+			"repo_name": "CstudioPro Scripts",
 			"repo_path": "./script",
 			"has_core": true,
 			"core_path": "bin",
@@ -43,7 +43,7 @@
 		},
 		{
 			"url": "https://github.com/raivost/CstudioPro-Pics",
-			"repo_name": "Anibout Pics",
+			"repo_name": "CstudioPro Pics",
 			"repo_path": "./pics",
 			"has_core": true,
 			"core_path": "pics",
