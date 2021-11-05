@@ -56,33 +56,13 @@
 	],
 	"servers": [
 		{
-			"name": "EU Central (Casual)",
-			"address": "eu.ygopro.co",
-			"duelport": 7912,
-			"roomaddress": "eu.ygopro.co",
-			"roomlistport": 7923
-		},
-		{
-			"name": "EU Central (Competitive)",
-			"address": "eu.ygopro.co",
-			"duelport": 7911,
-			"roomaddress": "eu.ygopro.co",
-			"roomlistport": 7922
-		},
-		{
-			"name": "US West (Casual)",
-			"address": "us.ygopro.co",
-			"duelport": 7911,
-			"roomaddress": "us.ygopro.co",
-			"roomlistport": 7922
-		},
-		{
-			"name": "US West (Competitive)",
-			"address": "us.ygopro.co",
-			"duelport": 7912,
-			"roomaddress": "us.ygopro.co",
-			"roomlistport": 7923
-		}
+            "name": "CstudioPro",
+            "address": "79.113.114.87",
+            "duelport": 7911,
+            "roomaddress": "79.113.114.87",
+            "roomlistport": 7922
+        }
+		
 	],
 	"posixPathExtension": "/usr/local/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands"
 }
