@@ -56,20 +56,12 @@
 	],
 	"servers": [
 		{
-            "name": "CstudioPro - Xy",
+            "name": "Cstudio Server",
             "address": "89.136.227.22",
             "duelport": 7911,
             "roomaddress": "89.136.227.22",
             "roomlistport": 7922
-        },
-		{
-            "name": "CstudioPro - Ravi",
-            "address": "79.113.114.87",
-            "duelport": 7911,
-            "roomaddress": "79.113.114.87",
-            "roomlistport": 7922
-        }
-		
+        }	
 	],
 	"posixPathExtension": "/usr/local/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands"
 }
