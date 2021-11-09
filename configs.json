@@ -15,14 +15,6 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/raivost/CstudioPro-Texture",
-			"repo_name": "CstudioPro Textures",
-			"repo_path": "./textures",
-			"has_core": true,
-			"should_update": true,
-			"should_read": true
-		},
-		{
 			"url": "https://github.com/raivost/CstudioPro-Flists",
 			"repo_name": "CstudioPro lflists",
 			"repo_path": "./lflists",
