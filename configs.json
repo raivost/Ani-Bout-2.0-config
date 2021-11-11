@@ -57,9 +57,9 @@
 	"servers": [
 		{
             "name": "Cstudio Server",
-            "address": "89.136.227.22",
+            "address": "cproab1.serveirc.com",
             "duelport": 7911,
-            "roomaddress": "89.136.227.22",
+            "roomaddress": "cproab1.serveirc.com",
             "roomlistport": 7922
         }	
 	],
