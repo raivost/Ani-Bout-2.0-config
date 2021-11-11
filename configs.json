@@ -57,9 +57,9 @@
 	"servers": [
 		{
             "name": "Cstudio Server",
-            "address": "185.165.241.38",
+            "address": "187.217.68.137",
             "duelport": 7911,
-            "roomaddress": "185.165.241.38",
+            "roomaddress": "187.217.68.137",
             "roomlistport": 7922
         }	
 	],
